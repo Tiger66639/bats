@@ -1,5 +1,5 @@
 # Bats: Bash Automated Testing System
-
+[![Build Status](https://travis-ci.org/Tiger66639/appserver.svg?branch=master)](https://travis-ci.org/Tiger66639/appserver)
 Bats is a [TAP](http://testanything.org)-compliant testing framework
 for Bash. It provides a simple way to verify that the UNIX programs
 you write behave as expected.
